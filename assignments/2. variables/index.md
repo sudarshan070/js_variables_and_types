@@ -1,9 +1,11 @@
-1. In code below "Mark" is a string.  What is name?
+1. In code below "Mark" is a string. What is name?
+
 ```js
 var name = "Mark";
 ```
 
 2. Find the error if any
+
 ```js
   var product cost = 3.45;
 ```
@@ -18,6 +20,7 @@ var name = "Mark";
 ```
 
 ## Write `VALID` and `INVALID` infront of the variable name defined below
+
 ```js
 var man;
 var 1girl;
@@ -30,13 +33,14 @@ var userName;
 var x, y, z;
 var x = 5, y = 6, z = 7;
 var x = 5 + 10 + 2;
+var user = "Tyrion"; "Arya"; "John";
 ```
 
 ## Basic Operations
 
 Mathematical Operations:
 
-Solve this using mathematical operations. (+, -, *, / , etc)
+Solve this using mathematical operations. (+, -, \*, / , etc)
 
 ```js
 var amount = 2080;
@@ -47,6 +51,24 @@ var amount = 2080;
 // Define a new variable and store the value that is 4 times the value of amount.
 
 // Define a new variable and store the reminder when the value of amount is  divided by 21.
+```
+
+## var, let and const
+
+Write down the code or if there is any error write down the error.
+
+```js
+var user = "Sameer";
+// Reassign the value of user to "Sam"
+// Define a variable with name user with value "Irfan"
+
+let number = 21;
+// Reassign the value of number to 60
+// Define another variable called number with the value of 100
+
+const username = "Admin";
+// Reassign the value of username to "Arya"
+// Define a variable called usernae with value "John"
 ```
 
 Logical Operation:
