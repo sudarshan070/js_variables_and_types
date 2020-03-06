@@ -33,7 +33,7 @@ Number(true); // 1
 
 ```js
 var x = 10 + "1";
-// console.log(x); //101
+console.log(x); //101  if one operands is string then other is also converted into string
 typeof x;
 
 typeof x is String
